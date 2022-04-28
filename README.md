@@ -13,6 +13,8 @@ yarn start
 ```
 yarn start 
 ```
+- then Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 ## Tools
 - GraphQl
 - React.js
